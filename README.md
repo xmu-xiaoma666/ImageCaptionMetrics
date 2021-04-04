@@ -57,7 +57,7 @@ Note that the input format must be the same as the file in `examples/gts.json` a
   python demo.py --gts_path examples/gts.json --res_path examples/res.json 
   ```
 
-![](.\examples\metric_result.png)
+![](./examples/metric_result.png)
 
 Important args:
 
