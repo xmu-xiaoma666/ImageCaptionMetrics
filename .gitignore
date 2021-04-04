@@ -1,0 +1,4 @@
+*.pyc
+GoogleNews-vectors-negative300.bin
+stanford-corenlp-3.6.0.jar
+stanford-corenlp-3.6.0-models.jar
