@@ -74,7 +74,7 @@ Important args:
 python statistic.py
 ```
 
-![](.\examples\p_value.png)
+![](./examples/p_value.png)
 
 
 
